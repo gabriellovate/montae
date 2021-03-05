@@ -17,5 +17,5 @@ Como há programadores com experstises diversas, a ideia é ter scripts mais sim
 * rode `chmod u+x montae` pra fazer virar executável
 * rode `cp montae usr/local/bin` pra tornar o script visível como um comando pro teu terminal 
 
-Pra usar, só rodar "sudo montae nomedodiretorio" e correr pro abraço. 
+Pra usar, só rodar `sudo montae nomedodiretorio` e correr pro abraço. 
 
